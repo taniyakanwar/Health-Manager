@@ -1,8 +1,8 @@
-# VitalPlan - Virtual Health & Diet Planner
+# Health Manager - Virtual Health & Diet Planner
 
 ## Overview
 
-VitalPlan is a comprehensive virtual health and diet planning web application built with Streamlit. The application provides personalized health recommendations including BMI calculations, calorie needs assessment, diet suggestions, and exercise plans based on user profiles and goals. Users can register, complete health assessments, and receive tailored recommendations for weight loss, muscle building, or maintenance goals with support for various dietary preferences (vegetarian, non-vegetarian, vegan).
+Health Manager is a comprehensive virtual health and diet planning web application built with Streamlit. The application provides personalized health recommendations including BMI calculations, calorie needs assessment, diet suggestions, and exercise plans based on user profiles and goals. Users can register, complete health assessments, and receive tailored recommendations for weight loss, muscle building, or maintenance goals with support for various dietary preferences (vegetarian, non-vegetarian, vegan).
 
 ## User Preferences
 
@@ -49,4 +49,5 @@ Preferred communication style: Simple, everyday language.
 ### Potential Integrations
 - **Database Migration**: Architecture supports future migration from CSV to SQL databases
 - **API Integrations**: Extensible design for nutrition APIs or fitness tracking services
+
 - **Cloud Storage**: File-based system can be adapted for cloud storage solutions
